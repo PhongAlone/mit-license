@@ -90,7 +90,7 @@
 						</tr>
 						<tr>
 							<td>
-								<wait>
+								<80>
 								</td>
 							</tr>
 						</tbody>
