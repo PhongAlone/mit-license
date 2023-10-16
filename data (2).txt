@@ -23,24 +23,6 @@
 								</tr>
 								<tr>
 									<td>
-									<95>
-								</td>
-							</tr>
-							<tr>
-								<td></td>
-							</td>
-						</tr>
-						<tr>
-							<td>
-								<td></td>
-							</tr>
-							<tr>
-								<td>
-									<a title "Long An" href="/xo-so-long-an/xsla.html">
-									</td>
-								</tr>
-								<tr>
-									<td>
 									</a>
 								</td>
 							</tr>
@@ -50,48 +32,71 @@
 						</tr>
 						<tr>
 							<td>
-								<td></td>
-							</tr>
-							<tr>
 								<td>
-									<a title"Bình Phước" href="/xo-so-binh-phuoc/xsbp.html">
+									<44>
 									</td>
 								</tr>
 								<tr>
 									<td>
-									</a>
-								</td>
-							</tr>
-							<tr>
-								<td></td>
-							</td>
-						</tr>
-						<tr>
-							<td>
-								<td></td>
-							</tr>
-							<tr>
-								<td>
-									<a title"Hậu Giang" href="/xo-so-hau-giang/xshg.html">
+										<a title"Đồng Tháp" href"/xo-so-dong-thap/xsdt.html">
+										</td>
+									</tr>
+									<tr>
+										<td>                    ĐỒNG THÁP</td>
+									</tr>
+									<tr>
+										<td>
+										</10>
 									</td>
 								</tr>
 								<tr>
 									<td>
-									</a>
-								</td>
-							</tr>
-							<tr>
-								<td></td>
-							</td>
-						</tr>
-						<tr>
-							<td></td>
-							<td></td>
-						</tr>
-						<tr>
-							<td>
-								<80>
-								</td>
-							</tr>
-						</tbody>
-					</table>
+										<10>
+										</td>
+									</tr>
+									<tr>
+										<td></td>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<td></td>
+									</tr>
+									<tr>
+										<td>
+											<a title"Cà Mau" href="/xo-so-ca-mau/xscm.html">
+											</td>
+										</tr>
+										<tr>
+											<td>            CÀ MAU</td>
+										</tr>
+										<tr>
+											<td>
+											</a>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<44>
+											</td>
+										</tr>
+										<tr>
+											<td></td>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<td>
+												<td></td>
+											</tr>
+											<tr>
+												<td></td>
+											</tr>
+											<tr>
+												<td></td>
+											</tr>
+											<tr>
+												<td></td>
+											</tr>
+										</tbody>
+									</table>
